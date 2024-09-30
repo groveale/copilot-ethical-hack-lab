@@ -11,6 +11,7 @@ nav:
   - Welcome : 'pages/extend-m365-copilot/index.md'
   - Lab E0 - Prerequisites: 'pages/extend-m365-copilot/00-prerequisites.md'
   - Lab E1 - Declarative Agent: 'pages/extend-m365-copilot/01-declarative-copilot.md'
+  - Lab E2 - Sensitive Agent: 'pages/extend-m365-copilot/02-sensitive-agent.md'
 - Build Path - Build your own agent: 
   - Welcome : 'pages/custom-engine/index.md'
   - Lab B0 - Prerequisites: 'pages/custom-engine/00-prerequisites.md'
