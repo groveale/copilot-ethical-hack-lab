@@ -1,4 +1,4 @@
-# Lab E1 - Declarative agent to work with sensitive data
+# Lab E2 - Declarative agent to work with sensitive data
 
 In this lab, you'll build another declarative agent using Teams Toolkit for Visual Studio Code. Your agent is designed to provide details and information that it would not normally want 
 
@@ -24,7 +24,7 @@ It's important to maintain ethical safeguarding when using Gen AI for several re
 
 Copilot is great and telling you what sort of information it cannot tell you about
 
-![no-copilot](../../assets/images/extend-m365-copilot-01/no-copilot.png)
+![no-copilot](../../assets/images/extend-m365-copilot-02/no-copilot.png)
 
 It this hack we are not questioning the importance of ethical safeguarding - There are just some use cases when it's important. For example Adult Social care practitioners at a local council would like to use M365 Copilot to be more effective and provide a better service to their communities. A fair an valid reason to have access and work with this sort of data.
 
