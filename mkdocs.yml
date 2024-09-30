@@ -1,0 +1,41 @@
+site_name: Copilot Ethical Hack
+site_url: https://groveale.github.io/copilot-ethical-hack-lab
+repo_url: https://github.com/groveale/copilot-ethical-hack-lab
+repo_name: groveale/copilot-ethical-hack-labcopilot-hack-lab-camp
+edit_uri: ''                    # Disable edit button
+extra_css:
+    - assets/labStyles.css
+nav: 
+- Home: 'index.md'
+- Extend Path - Extend Copilot for Microsoft 365: 
+  - Welcome : 'pages/extend-m365-copilot/index.md'
+  - Lab E0 - Prerequisites: 'pages/extend-m365-copilot/00-prerequisites.md'
+  - Lab E1 - Declarative Agent: 'pages/extend-m365-copilot/01-declarative-copilot.md'
+- Build Path - Build your own agent: 
+  - Welcome : 'pages/custom-engine/index.md'
+  - Lab B0 - Prerequisites: 'pages/custom-engine/00-prerequisites.md'
+  - Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit: 'pages/custom-engine/01-custom-engine-agent.md'
+  - Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent: 'pages/custom-engine/02-rag.md'
+
+theme:
+  name: 'material'
+  palette: 
+    primary: '#35258F'
+    accent: '#091F2C'
+  logo: 'assets/images/CopilotCamp-Tent-Clean.png'
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs         # Top nav
+    - navigation.tabs.sticky  # Make top nav stay vaisible
+    - navigation.sections
+    - toc.integrate           # Integrate sections into left nav
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.snippets:
+      base_path: docs/includes
+  - attr_list
+extra_javascript:
+  - javascripts/next-button.js
+  - javascripts/cc-lab-step.js
