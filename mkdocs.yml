@@ -1,7 +1,7 @@
 site_name: Copilot Ethical Hack
 site_url: https://groveale.github.io/copilot-ethical-hack-lab
 repo_url: https://github.com/groveale/copilot-ethical-hack-lab
-repo_name: groveale/copilot-ethical-hack-labcopilot-hack-lab-camp
+repo_name: groveale/copilot-ethical-hack-lab
 edit_uri: ''                    # Disable edit button
 extra_css:
     - assets/labStyles.css
