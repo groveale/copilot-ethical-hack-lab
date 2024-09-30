@@ -1,4 +1,4 @@
-name: Deploy MkDocs site to GitHub Pages
+name: ci
 
 on:
   push:
@@ -8,20 +8,14 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v3  # Updated to the latest version
+      - uses: actions/setup-python@v4  # Updated to the latest version
         with:
           python-version: '3.x'
-
-      - name: Install MkDocs and dependencies
-        run: |
-          pip install mkdocs
-          pip install mkdocs-material
-
-      - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force --clean --verbose
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

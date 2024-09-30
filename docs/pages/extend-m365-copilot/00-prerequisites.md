@@ -6,12 +6,6 @@ In this lab, you will set up the development environment to build, test, and dep
 ???+ "Navigating the Extend Copilot labs (Extend Path)"
     - [Lab E0 - Prerequisites](./00-prerequisites.md) (📍You are here)
     - [Lab E1 - Declarative Agent](./01-declarative-copilot.md)
-    - [Lab E2 - Build an API](./02-build-the-api.md)
-    - [Lab E3 - Add a Declarative Copilot and API Plugin](./03-add-declarative-copilot.md) 
-    - [Lab E4 - Enhance the API and Plugin](./04-enhance-api-plugin.md)
-    - [Lab E5 - Add Adaptive Cards](./05-add-adaptive-card.md)
-    - [Lab E6 - Add authentication](./06-add-authentication.md)
-
 ---8<--- "e-path-prelude.md"
 
 In this lab you will learn:
