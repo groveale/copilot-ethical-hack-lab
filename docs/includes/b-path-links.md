@@ -1,3 +1,3 @@
-- [Lab B0 - Prerequisites](/copilot-camp/pages/custom-engine/00-prerequisites) READY FOR TESTING
-- [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](/copilot-camp/pages/custom-engine/01-custom-engine-agent) READY FOR TESTING
-- [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](/copilot-camp/pages/custom-engine/02-rag) READY FOR TESTING
+- [Lab B0 - Prerequisites](/copilot-ethical-hack-lab/pages/custom-engine/00-prerequisites) READY FOR TESTING
+- [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](/copilot-ethical-hack-lab/pages/custom-engine/01-custom-engine-agent) READY FOR TESTING
+- [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](/copilot-ethical-hack-lab/pages/custom-engine/02-rag) READY FOR TESTING

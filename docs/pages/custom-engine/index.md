@@ -11,10 +11,8 @@ The journey starts with building a basic custom engine agent using Teams Toolkit
 <hr />
 
 ???+ info "Here are the labs"
-    - [Lab B0 - Prerequisites](/copilot-camp/pages/custom-engine/00-prerequisites)
-    - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](/copilot-camp/pages/custom-engine/01-custom-engine-agent)
-    - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](/copilot-camp/pages/custom-engine/02-rag)
+    - [Lab B0 - Prerequisites](./00-prerequisites)
+    - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](./01-custom-engine-agent)
+    - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](./custom-engine/02-rag)
   
 ## <a href="./00-prerequisites">Start here</a> with Lab B0, where you'll set up development your environment.
-
-<img src="https://pnptelemetry.azurewebsites.net/copilot-camp/custom-engine/index" />

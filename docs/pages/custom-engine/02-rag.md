@@ -3,10 +3,9 @@
 In this lab you will enable Retrieval-Augmented Generation for your custom engine agent and integrate with Azure AI Search to chat with your data.
 
 ???+ "Navigating the Build your own agent labs (Build Path)"
-    - [Lab B0 - Prerequisites](/copilot-camp/pages/custom-engine/00-prerequisites)
-    - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](/copilot-camp/pages/custom-engine/01-custom-engine-agent)
-    - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](/copilot-camp/pages/custom-engine/02-rag) (📍 You are here)
-    - [Lab B3 - Enhance user experience with the Powered by AI kit](/copilot-camp/pages/custom-engine/03-powered-by-ai)
+     - [Lab B0 - Prerequisites](./00-prerequisites)
+    - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](./01-custom-engine-agent)
+    - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](./02-rag) (📍 You are here)
 
 ---8<--- "b-path-prelude.md" 
 
@@ -321,5 +320,3 @@ Ensure your questions are related to your dataset. Go through pdf documents in t
 You have completed Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent! If you want explore further, the source code of this lab is available in the [Copilot Developer Camp repo](https://github.com/microsoft/copilot-camp/tree/main/src/custom-engine-agent/Lab02-RAG/CareerGenie).
 
 You are now ready to proceed to Lab B3 - Enhance User Experience with the Powered by AI kit! Select Next. 
-
-<img src="https://pnptelemetry.azurewebsites.net/copilot-camp/custom-engine/02-rag" />

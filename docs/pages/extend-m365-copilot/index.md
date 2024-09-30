@@ -10,5 +10,3 @@ During Extend Path of the Copilot Developer Camp, learners will construct a cust
     - [Lab E1 - Declarative Agent](./01-declarative-copilot.md) - Build a simple declarative copilot
 
 ## <a href="./00-prerequisites">Start here</a> with Lab E0, where you'll set up development your environment.
-
-<img src="https://pnptelemetry.azurewebsites.net/copilot-camp/extend-m365-copilot/index" />

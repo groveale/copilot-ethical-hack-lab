@@ -3,9 +3,9 @@
 In this lab you will build a custom engine agent using Teams Toolkit for Visual Studio Code. You will also utilize Azure OpenAI models in your custom engine agent and define your first prompt.
 
 ???+ "Navigating the Build your own agent labs (Build Path)"
-    - [Lab B0 - Prerequisites](/copilot-camp/pages/custom-engine/00-prerequisites)
-    - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](/copilot-camp/pages/custom-engine/01-custom-engine-agent) (📍 You are here)
-    - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](/copilot-camp/pages/custom-engine/02-rag)
+     - [Lab B0 - Prerequisites](./00-prerequisites)
+        - [Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit](./01-custom-engine-agent) (📍 You are here)
+        - [Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent](./02-rag)
    
 ---8<--- "b-path-prelude.md"
 
@@ -158,5 +158,3 @@ After successfully completing your testing, end your debugging session and close
 You have completed Lab B1 - Build a custom engine agent using Azure OpenAI and Teams Toolkit! If you want explore further, the source code of this lab is available in the [Copilot Developer Camp repo](https://github.com/microsoft/copilot-camp/tree/main/src/custom-engine-agent/Lab01-From-TTK-template/CareerGenie).
 
 You are now ready to proceed to Lab B2 - Index your data in Azure AI Search and bring it into your custom engine agent. Select Next.
-
-<img src="https://pnptelemetry.azurewebsites.net/copilot-camp/custom-engine/01-custom-engine-agent" />
