@@ -1,17 +1,9 @@
 # Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is to support the Copilot Ethical Hack as part of the CSU Chats and Hacks series.
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## References
 
-## Project layout
+A lot of these steps were taken from - [Copilot Developer Camp](https://microsoft.github.io/copilot-camp/) - Thanks!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
