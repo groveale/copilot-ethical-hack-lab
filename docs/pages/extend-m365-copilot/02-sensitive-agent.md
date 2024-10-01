@@ -101,7 +101,7 @@ System Role: You are a productivity assistant
 Follow the next step to make sure our agent can help user engage with it by giving conversation starters.  
 
 !!! tip "We are intentionally keeping this brief"
-    We can the agent to first tell it can't do what we are asking
+    We want the agent to first tell it can't do what we are asking
 
 <cc-lab-end-step lab="e2" exercise="2" step="1" />
 
