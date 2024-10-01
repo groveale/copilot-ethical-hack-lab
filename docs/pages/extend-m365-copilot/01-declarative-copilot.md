@@ -342,12 +342,15 @@ Playing the same game over and over can get dull. To keep things fun and engagin
 
 ### Step 1: Upload files to SharePoint.
 
+!!! note "CSU Chats and hacks!"
+    I've created a SPO site for this so please use `https://microsoft.sharepoint-df.com/teams/CSUEthicalSafeguardingHackTestdata` 
+
 Download this zip file consisting of two PDF file by selecting this [link](https://download-directory.github.io/?url=https://github.com/microsoft/copilot-camp/tree/main/src/extend-m365-copilot/path-e-lab01-declarative-copilot/geo-locator-lab-sample/sharepoint-docs&filename=sharepoint-docs){target=_blank}
 
 Extract the two files from the zip and upload to a SharePoint Teams site in the same tenant in the document library **Documents**.
 These documents are **historical_map.pdf** and **travelers_diary** to help make the game more challenging. 
 
-Copy the absolute url of the site. For eg. `https://xyz.sharepoint.com/sites/contoso` and proceed to next step.
+Copy the absolute url of the site. `https://microsoft.sharepoint-df.com/teams/CSUEthicalSafeguardingHackTestdata` and proceed to next step.
 
 <cc-lab-end-step lab="e1" exercise="3" step="1" />
 

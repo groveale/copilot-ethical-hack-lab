@@ -21,6 +21,9 @@ In this lab you will learn:
 
 ### Step 1: Enable Teams application uploads
 
+!!! note "CSU Chats and hacks!"
+    We are using the MS tenant for this first exercise so this is not required. Please skip to installing Teams Toolkit
+
 By default, end users can't upload applications directly; instead an administrator needs to upload them into the enterprise app catalog. In this step you will ensure your tenant is set up for direct uploads by Teams Toolkit.
 
 - Sign in to [Microsoft Teams admin center](https://admin.teams.microsoft.com/dashboard) with your admin credentials.
