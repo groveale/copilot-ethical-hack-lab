@@ -19,7 +19,6 @@ In this lab you will learn how to:
 
 !!! note "To install and run your own custom engine agent, you'll need a Microsoft 365 tenant where you have administrator permission. You won't need Microsoft 365 Copilot License to test your custom engine agent."
 
-
 ## Exercise 1 : Setup Microsoft Teams
 
 ### Step 1: Enable Teams custom application uploads
