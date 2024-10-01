@@ -186,7 +186,7 @@ So we had a specific example here controlled with our prompt. Wouldn't it be gre
 
 ### Step 1: Update declarative agent instructions
 
-
+Now try and update that system prompt to get around the safeguarding and make Copilot tell you those passport numbers!
 
 ### Step 2: Upgrade app manifest
 
